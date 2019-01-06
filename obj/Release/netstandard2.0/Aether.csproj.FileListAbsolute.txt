@@ -1,0 +1,8 @@
+C:\Users\Cameron\Documents\GitHub\Physetto\Aether\bin\Release\netstandard2.0\Aether.deps.json
+C:\Users\Cameron\Documents\GitHub\Physetto\Aether\bin\Release\netstandard2.0\Aether.dll
+C:\Users\Cameron\Documents\GitHub\Physetto\Aether\bin\Release\netstandard2.0\Aether.pdb
+C:\Users\Cameron\Documents\GitHub\Physetto\Aether\obj\Release\netstandard2.0\Aether.csproj.CoreCompileInputs.cache
+C:\Users\Cameron\Documents\GitHub\Physetto\Aether\obj\Release\netstandard2.0\Aether.AssemblyInfoInputs.cache
+C:\Users\Cameron\Documents\GitHub\Physetto\Aether\obj\Release\netstandard2.0\Aether.AssemblyInfo.cs
+C:\Users\Cameron\Documents\GitHub\Physetto\Aether\obj\Release\netstandard2.0\Aether.dll
+C:\Users\Cameron\Documents\GitHub\Physetto\Aether\obj\Release\netstandard2.0\Aether.pdb
