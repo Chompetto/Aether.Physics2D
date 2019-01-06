@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>Aether.Physics2D.NetStandard</id>
+    <version>1.4.0</version>
+    <authors>Chompetto</authors>
+    <owners>Chompetto</owners>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <projectUrl>https://github.com/Chompetto/Aether.Physics2D</projectUrl>
+    <description>Fork from nkast.  Converted to .NetStandard and explicitly included all MonoEngine dependencies.</description>
+    <copyright>nkast</copyright>
+    <tags>Aether.Physics2D Physics .NetStandard</tags>
+    <dependencies>
+      <group targetFramework=".NETStandard2.0" />
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="C:\Users\Cameron\Documents\GitHub\Aether.Physics2D\bin\Release\netstandard2.0\Aether.dll" target="lib\netstandard2.0\Aether.dll" />
+  </files>
+</package>
